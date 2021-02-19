@@ -1,0 +1,6 @@
+/* miniprogram/pages/pbsmCore/pbsmCore.wxss */
+
+.section{
+  display: flex;
+  flex-direction: row;
+}
