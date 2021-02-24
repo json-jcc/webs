@@ -1,9 +1,24 @@
 # pbsm
 
-pbsm-fe 
+## pbsm-fe 
 
-​	NUXTJS
+NuxtJS project 
+
+IDE: VS Code
 
 
 
-pbsm-re
+
+
+## pbsm-fe-wx-mini
+
+
+
+
+
+## pbsm-re
+
+
+
+
+
